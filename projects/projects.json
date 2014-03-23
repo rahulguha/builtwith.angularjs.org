@@ -1,7 +1,30 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
-  {
+      {
+          "name": "Annectos Rewards ECommerce Platform",
+          "thumb": "annectos-reward-platform/thumb.png",
+          "desc": "A complete white-label ecommerce and rewards redemption platform built in angular, mongo and .Net webAPI",
+          "url": "http://annectosindia.com/",
+          "submitter": "rahulguha",
+          "submissionDate": "2014-03-23",
+          "tags": [
+              "Production",
+              "ECommerce",
+              "Payment Gateway Integration",
+              "Bootstrap",
+              "Local Storage",
+              "jQuery",
+              "JSON",
+              ".net WebAPI",
+              "Rewards redemption platform",
+              "AWS",
+              "S3",
+              "CDN"
+
+          ]
+      },
+      {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
